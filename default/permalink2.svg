@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/My Documents/BlogSphere/blogicons"
+   sodipodi:docname="permalink2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9414062"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="2979.92px"
+     height="2500px"
+     showgrid="true"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="permalinkGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#0095c9;stop-opacity:1;"
+         offset="0"
+         id="stop21831" />
+      <stop
+         style="stop-color:#3fd5d5;stop-opacity:1;"
+         offset="0.5"
+         id="stop21833" />
+      <stop
+         style="stop-color:#0095c9;stop-opacity:1;"
+         offset="1"
+         id="stop21835" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons"
+     style="display:inline">
+    <g
+       id="permalink2">
+      <rect
+         id="permaOuter"
+         width="256"
+         rx="55"
+         ry="55"
+         y="0"
+         x="0"
+         height="256"
+         style="fill:#047aa3;fill-opacity:1" />
+      <rect
+         style="fill:#3fd5d5;fill-opacity:1"
+         id="permaMid"
+         width="246"
+         rx="50"
+         ry="50"
+         height="246"
+         y="5"
+         x="5" />
+      <rect
+         style="fill:url(#permalinkGradient)"
+         id="permaInner"
+         width="236"
+         rx="47"
+         ry="47"
+         y="10"
+         x="10"
+         height="236" />
+      <path
+         d="M 87.019335,18.31649 C 83.786405,14.99079 79.014575,13.6641 74.528885,14.84342 C 70.043175,16.02269 66.539235,19.52665 65.359945,24.01235 C 64.180625,28.49803 65.507325,33.26987 68.833025,36.5028 C 68.833025,36.5028 96.516995,64.18677 110.66364,78.33341 C 118.8972,73.22753 128.02619,70.00335 137.37477,68.67194 C 124.59655,55.89371 87.019335,18.31649 87.019335,18.31649 z M 159.91824,124.50645 C 153.93926,118.52747 145.11401,117.68164 138.33462,121.6901 C 137.70114,128.4558 134.81936,135.04885 129.73401,140.24266 C 118.17173,152.05155 99.126825,152.12074 87.147715,140.14163 C 87.147715,140.14163 38.524585,91.51849 38.524585,91.51849 C 35.291645,88.1928 30.519815,86.86611 26.034125,88.04542 C 21.548415,89.2247 18.044485,92.72865 16.865185,97.21435 C 15.685865,101.70003 17.012565,106.47187 20.338265,109.70481 C 20.338265,109.70481 68.961415,158.32795 68.961415,158.32795 C 90.780455,180.14699 126.60028,180.20778 148.10976,158.23955 C 156.4775,149.69335 161.56254,139.04611 163.35343,127.94165 C 162.90245,127.49065 159.91824,124.50645 159.91824,124.50645 z M 168.98067,237.68351 C 172.2136,241.0092 176.98543,242.33589 181.47113,241.15659 C 185.95683,239.9773 189.46076,236.47335 190.64005,231.98766 C 191.81938,227.50197 190.49268,222.73014 187.16698,219.49719 C 187.16698,219.49719 159.48301,191.81322 145.33637,177.66658 C 137.1028,182.77246 127.97381,185.99666 118.62522,187.32807 C 131.40346,200.1063 168.98067,237.68351 168.98067,237.68351 z M 96.081765,131.49354 C 102.06074,137.47252 110.88599,138.31835 117.66538,134.30989 C 118.29886,127.54421 121.18064,120.95114 126.26599,115.75733 C 137.82827,103.94844 156.87317,103.87925 168.85229,115.85837 C 168.85229,115.85837 217.47542,164.4815 217.47542,164.4815 C 220.70836,167.8072 225.48019,169.13389 229.96588,167.95459 C 234.45159,166.7753 237.95552,163.27134 239.13482,158.78566 C 240.31413,154.29997 238.98743,149.52812 235.66174,146.29519 C 235.66174,146.29519 187.03859,97.67204 187.03859,97.67204 C 165.21955,75.853 129.39971,75.79222 107.89024,97.76046 C 99.522505,106.30666 94.437465,116.9539 92.646575,128.05835 C 93.097565,128.50934 96.081765,131.49354 96.081765,131.49354 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:45;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+         id="link" />
+    </g>
+  </g>
+</svg>

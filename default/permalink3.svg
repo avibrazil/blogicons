@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/My Documents/BlogSphere/blogicons"
+   sodipodi:docname="permalink3.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9414062"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="2979.92px"
+     height="2500px"
+     showgrid="true"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="permalinkGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#0095c9;stop-opacity:1;"
+         offset="0"
+         id="stop21831" />
+      <stop
+         style="stop-color:#3fd5d5;stop-opacity:1;"
+         offset="0.5"
+         id="stop21833" />
+      <stop
+         style="stop-color:#0095c9;stop-opacity:1;"
+         offset="1"
+         id="stop21835" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons"
+     style="display:inline">
+    <g
+       id="permalink3">
+      <rect
+         id="rect3430"
+         width="256"
+         rx="55"
+         ry="55"
+         y="0"
+         x="0"
+         height="256"
+         style="fill:#047aa3;fill-opacity:1" />
+      <rect
+         style="fill:#3fd5d5;fill-opacity:1"
+         id="rect3432"
+         width="246"
+         rx="50"
+         ry="50"
+         height="246"
+         y="5"
+         x="5" />
+      <rect
+         style="fill:url(#permalinkGradient)"
+         id="rect3434"
+         width="236"
+         rx="47"
+         ry="47"
+         y="10"
+         x="10"
+         height="236" />
+      <path
+         d="M 112.53941,54.64722 C 106.47423,48.71526 99.898962,43.29743 93.097032,38.67668 C 82.595196,31.39651 72.015056,26.4413 61.954506,24.15277 C 51.893956,21.86424 41.840796,22.02928 33.844056,27.75192 C 26.112446,32.7801 22.913336,41.63609 22.815146,50.67773 C 22.716966,59.71937 25.483086,69.421 30.545826,79.44782 C 41.036256,100.90936 61.361966,122.28099 82.808766,134.81232 C 83.291796,135.10158 83.773316,135.37823 84.255386,135.65713 C 86.085956,129.82906 88.605866,124.16713 91.812462,118.81865 C 74.195526,108.43711 55.264786,88.29861 46.956106,71.30054 L 46.921376,71.24268 L 46.909806,71.18481 C 42.837746,63.12004 41.092666,55.84509 41.146526,50.88604 C 41.200376,45.92699 42.461936,43.99406 44.178616,42.87763 L 44.352216,42.77349 L 44.514236,42.65776 C 46.178156,41.467 50.823386,40.41582 57.880876,42.02125 C 64.938346,43.62664 73.823396,47.61806 82.727756,53.79082 L 82.774056,53.81397 L 82.797206,53.83711 C 89.369802,58.30206 95.899512,63.96145 101.83453,70.14326 C 111.72622,80.44626 119.97127,92.18941 124.06597,102.16531 L 124.0891,102.2116 L 124.11226,102.2579 C 126.8115,108.62552 127.93358,114.27819 127.87343,118.30944 C 127.81327,122.34069 126.77082,124.39549 125.63987,125.49617 L 125.51256,125.62348 L 125.39684,125.7392 C 124.6063,126.56886 123.10934,127.394 120.66355,127.74131 C 116.18973,133.17579 113.03181,139.29661 111.18538,145.71393 C 111.72018,145.79265 112.25097,145.86018 112.78243,145.92223 C 122.28392,147.03173 131.95287,145.31136 138.54359,138.49247 C 143.83942,133.25587 146.10631,125.95476 146.21639,118.57561 C 146.32738,111.13616 144.4447,103.26634 140.98546,95.10589 C 135.63834,82.07868 126.37141,68.7866 115.10859,57.21637 C 114.26387,56.34861 113.40588,55.49464 112.53941,54.64722 z M 211.64925,107.3731 C 193.17775,88.9016 167.1994,82.31591 143.36949,87.60668 C 146.25454,93.40889 148.41113,99.18855 149.78083,104.91965 C 166.98731,101.85455 185.34459,106.99162 198.68766,120.33468 C 220.39213,142.03913 220.39214,177.02467 198.68766,198.72915 C 176.98321,220.43361 142.00924,220.42202 120.30478,198.71757 C 98.600322,177.0131 98.600322,142.05072 120.30478,120.34626 C 121.06187,119.58916 121.84268,118.86329 122.63094,118.15898 C 122.63237,117.39135 122.59171,116.48108 122.45733,115.39307 C 121.95026,111.28762 120.15496,105.56235 116.94867,99.28369 C 113.57472,101.66599 110.35889,104.36899 107.34321,107.38468 C 78.625716,136.10217 78.625716,182.96166 107.34321,211.67916 C 136.0607,240.39665 182.93176,240.40823 211.64925,211.69072 C 240.36676,182.97322 240.36676,136.0906 211.64925,107.3731 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+         id="path3341" />
+    </g>
+  </g>
+</svg>
