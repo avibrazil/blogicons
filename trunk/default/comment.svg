@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/My Documents/BlogSphere/blogicons"
+   sodipodi:docname="comment.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36703635"
+     inkscape:cx="1587.5132"
+     inkscape:cy="915.12881"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="2979.92px"
+     height="2500px"
+     showgrid="true"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="commentGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#4748a3;stop-opacity:1"
+         offset="0"
+         id="permalinkGStart" />
+      <stop
+         style="stop-color:#9090d9;stop-opacity:1;"
+         offset="0.5"
+         id="permalinkGMid" />
+      <stop
+         style="stop-color:#4748a3;stop-opacity:1"
+         offset="1"
+         id="permalinkGEnd" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons">
+    <g
+       id="comment">
+      <rect
+         style="fill:#4748a3;fill-opacity:1;display:inline"
+         id="commentOuter"
+         width="256"
+         rx="55"
+         ry="55"
+         height="256"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#9090d9;fill-opacity:1;display:inline"
+         id="commentMid"
+         width="246"
+         rx="50"
+         ry="50"
+         height="246"
+         x="5"
+         y="5" />
+      <rect
+         style="fill:url(#commentGradient)"
+         id="commentInner"
+         width="236"
+         rx="47"
+         ry="47"
+         y="10"
+         x="10"
+         height="236" />
+      <path
+         d="M 209.125,74.375 C 208.96848,94.980534 194.80334,110.80666 178.125,120.6875 C 164.9157,128.51315 148.99517,133.64296 131.46875,136.1875 C 130.59552,138.64697 129.6362,141.02244 128.59375,143.3125 C 138.01029,146.45593 148.80143,148.53051 160.375,149.21875 C 166.79381,181.50745 183.09203,187.66343 214.15625,199.25 C 187.96662,177.41433 181.47994,160.51164 197.1875,146.5625 C 225.18084,140.55752 244.96874,125.93376 244.96875,108.84375 C 244.96875,94.299896 230.64334,81.555622 209.125,74.375 z M 106.6065,29.960146 C 152.15387,29.960146 189.13775,49.696216 189.13775,74.022646 C 189.13775,96.68459 157.03834,115.35307 115.82525,117.80389 C 108.8655,152.81365 91.216819,159.49773 57.534737,172.06073 C 85.931439,148.38491 92.950279,130.05356 75.919003,114.92889 C 45.566573,108.41785 24.106516,92.55288 24.106506,74.022646 C 24.106506,49.696216 61.059133,29.960166 106.6065,29.960146 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+         id="commentComment" />
+    </g>
+  </g>
+</svg>

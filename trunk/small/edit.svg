@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/src/blogicons/small"
+   sodipodi:docname="edit.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8710938"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="256px"
+     height="256px"
+     showgrid="false"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="innerGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="128"
+       x2="128"
+       y1="32"
+       y2="224">
+      <stop
+         offset="0"
+         id="feedGStart"
+         style="stop-color:#ea9d82;stop-opacity:1;" />
+      <stop
+         offset="1"
+         id="feedGEnd"
+         style="stop-color:#cf4312;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       id="midGradient"
+       cx="128"
+       cy="50"
+       r="128"
+       gradientUnits="userSpaceOnUse"
+       fx="128"
+       fy="128">
+      <stop
+         style="stop-color:#fafbf9;stop-opacity:1;"
+         offset="0"
+         id="stop3194" />
+      <stop
+         style="stop-color:#e66030;stop-opacity:1;"
+         offset="1"
+         id="stop3196" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons"
+     style="display:inline">
+    <g
+       id="edit">
+      <rect
+         style="fill:#d54e1d;fill-opacity:1"
+         id="outer"
+         width="256"
+         rx="42"
+         ry="42"
+         y="0"
+         x="0"
+         height="256" />
+      <rect
+         style="fill:url(#midGradient)"
+         id="mid"
+         width="224"
+         rx="36.75"
+         ry="36.75"
+         y="16"
+         x="16"
+         height="224" />
+      <rect
+         style="fill:url(#innerGradient)"
+         id="inner"
+         width="192"
+         rx="31.5"
+         ry="31.5"
+         y="32"
+         x="32"
+         height="192" />
+      <path
+         sodipodi:nodetypes="ccccsccccscsc"
+         id="pen"
+         d="M 76.67977,35.780067 L 35.78619,76.673645 L 121.91926,162.8067 L 123.06882,163.47963 C 124.51487,153.08926 128.62946,143.64757 136.13457,136.14247 C 143.64632,128.63071 153.09856,124.51933 163.49977,123.07671 L 162.81282,121.91313 L 76.67977,35.780067 z M 178.1637,148.17082 C 166.95484,146.94578 158.79469,149.37113 154.07896,154.08685 C 149.36539,158.80043 146.92777,166.9566 148.14891,178.15758 C 148.14891,178.15758 203.78541,218.79369 211.2891,211.297 C 218.7928,203.8003 178.1637,148.17082 178.1637,148.17082 z "
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:11.30000019;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
