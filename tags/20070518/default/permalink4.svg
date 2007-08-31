@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/My Documents/BlogSphere/blogicons"
+   sodipodi:docname="permalink4.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9414062"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="2979.92px"
+     height="2500px"
+     showgrid="true"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="permalinkGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#0095c9;stop-opacity:1;"
+         offset="0"
+         id="stop21831" />
+      <stop
+         style="stop-color:#3fd5d5;stop-opacity:1;"
+         offset="0.5"
+         id="stop21833" />
+      <stop
+         style="stop-color:#0095c9;stop-opacity:1;"
+         offset="1"
+         id="stop21835" />
+    </linearGradient>
+    <linearGradient
+       y2="230"
+       y1="25"
+       x2="230"
+       x1="25"
+       gradientUnits="userSpaceOnUse"
+       id="opmlGradient">
+      <stop
+         id="stop2698"
+         offset="0"
+         style="stop-color:#264fa1;stop-opacity:1" />
+      <stop
+         id="stop2700"
+         offset="0.5"
+         style="stop-color:#2492a1;stop-opacity:1" />
+      <stop
+         id="stop2702"
+         offset="1"
+         style="stop-color:#264fa1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="commentGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#4748a3;stop-opacity:1"
+         offset="0"
+         id="permalinkGStart" />
+      <stop
+         style="stop-color:#9090d9;stop-opacity:1;"
+         offset="0.5"
+         id="permalinkGMid" />
+      <stop
+         style="stop-color:#4748a3;stop-opacity:1"
+         offset="1"
+         id="permalinkGEnd" />
+    </linearGradient>
+    <linearGradient
+       id="feedGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         offset="0"
+         id="feedGStart"
+         style="stop-color:#d95b29;stop-opacity:1" />
+      <stop
+         offset="0.5"
+         id="feedGMid"
+         style="stop-color:#fb9e3a;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="feedGEnd"
+         style="stop-color:#d95b29;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       y2="230"
+       y1="25"
+       x2="230"
+       x1="25"
+       gradientUnits="userSpaceOnUse"
+       id="editGradient">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         id="stop5194"
+         offset="0" />
+      <stop
+         style="stop-color:#ff8888;stop-opacity:1"
+         id="stop5196"
+         offset="0.5" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         id="stop5198"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="230"
+       y1="25"
+       x2="230"
+       x1="25"
+       gradientUnits="userSpaceOnUse"
+       id="trackbackGradient">
+      <stop
+         id="trackbackGStart"
+         offset="0"
+         style="stop-color:#63a304;stop-opacity:1" />
+      <stop
+         id="trackbackGMid"
+         offset="0.5"
+         style="stop-color:#8ece1f;stop-opacity:1" />
+      <stop
+         id="trackbackGEnd"
+         offset="1"
+         style="stop-color:#63a304;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="cancelGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#550000;stop-opacity:1"
+         offset="0"
+         id="stop6177" />
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1"
+         offset="0.5"
+         id="stop6179" />
+      <stop
+         style="stop-color:#550000;stop-opacity:1"
+         offset="1"
+         id="stop6181" />
+    </linearGradient>
+    <linearGradient
+       id="shareGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       x2="230"
+       y1="25"
+       y2="230">
+      <stop
+         style="stop-color:#1cd300;stop-opacity:1;"
+         offset="0"
+         id="shareGStart" />
+      <stop
+         style="stop-color:#86f041;stop-opacity:1;"
+         offset="0.5"
+         id="shareGMid" />
+      <stop
+         style="stop-color:#1cd300;stop-opacity:1;"
+         offset="1"
+         id="shareGEnd" />
+    </linearGradient>
+    <linearGradient
+       y2="230"
+       y1="25"
+       x2="230"
+       x1="25"
+       gradientUnits="userSpaceOnUse"
+       id="clockGradient">
+      <stop
+         id="stop2270"
+         offset="0"
+         style="stop-color:#000099;stop-opacity:1" />
+      <stop
+         id="stop2272"
+         offset="0.5"
+         style="stop-color:#8888b6;stop-opacity:1" />
+      <stop
+         id="stop2274"
+         offset="1"
+         style="stop-color:#000099;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#permalinkGradient"
+       id="linearGradient2301"
+       gradientUnits="userSpaceOnUse"
+       x1="25"
+       y1="25"
+       x2="230"
+       y2="230" />
+  </defs>
+  <defs
+     id="clippers">
+    <clipPath
+       id="feedCastClipper">
+      <rect
+         id="rect9132"
+         width="175"
+         height="175"
+         x="44"
+         y="38" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clockClipper">
+      <rect
+         id="rect2316"
+         width="157.18419"
+         rx="31.303631"
+         ry="31.303631"
+         y="18.700287"
+         x="3.0947762"
+         height="157.18419"
+         clip-path="none" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons"
+     style="display:inline">
+    <g
+       id="permalink4">
+      <rect
+         id="rect9389"
+         width="256"
+         rx="55"
+         ry="55"
+         y="0"
+         x="0"
+         height="256"
+         style="fill:#047aa3;fill-opacity:1" />
+      <rect
+         style="fill:#3fd5d5;fill-opacity:1"
+         id="rect9391"
+         width="246"
+         rx="50"
+         ry="50"
+         height="246"
+         y="5"
+         x="5" />
+      <rect
+         style="fill:url(#linearGradient2301)"
+         id="rect9393"
+         width="236"
+         rx="47"
+         ry="47"
+         y="10"
+         x="10"
+         height="236" />
+      <path
+         d="M 121.09293,56.062057 C 119.24729,54.229367 117.34969,52.447527 115.38827,50.719587 C 93.745933,31.108257 67.464833,19.804117 46.791603,26.351567 C 36.839633,29.149867 29.604663,36.725227 26.508383,46.171967 C 23.412113,55.618687 24.110793,66.639697 28.057793,78.126067 C 35.606333,101.61688 55.886633,125.51008 79.117953,139.50894 C 85.007403,143.1645 90.945383,146.05627 96.815463,148.15144 C 95.822823,142.25928 95.667053,136.43515 96.483443,130.77588 C 93.502583,129.41142 90.463433,127.7901 87.428433,125.9063 L 87.388193,125.88619 L 87.337893,125.856 C 67.726633,114.03856 49.021283,91.305837 43.169583,73.095517 L 43.139403,73.025077 L 43.119283,72.944597 C 40.026113,63.943027 39.968953,56.302777 41.660413,51.142157 C 43.351873,45.981527 46.202873,43.074237 51.359343,41.624337 L 51.480063,41.584097 L 51.600803,41.543857 C 62.005783,38.248477 86.000123,45.609057 104.76372,62.611827 L 104.81403,62.642017 L 104.85428,62.682257 C 107.12219,64.680207 109.30262,66.790417 111.38395,68.990577 C 125.95327,84.391677 135.63224,103.96069 136.09405,116.57966 L 136.10411,116.62996 L 136.10411,116.69032 C 136.46962,123.81632 134.56108,128.68049 131.56654,131.6512 L 131.48605,131.73169 L 131.41562,131.82224 C 130.56449,132.71593 129.49604,133.49967 128.23631,134.15643 C 127.58311,137.22257 127.67156,142.36963 129.70524,148.76515 L 129.74548,148.88589 L 129.77566,149.01669 C 129.91997,149.49869 130.07881,149.98019 130.24854,150.47555 C 135.03229,149.00772 139.35558,146.5397 142.86518,142.88946 C 149.64256,136.11808 152.54648,126.32001 152.01073,115.87538 C 151.30865,96.690867 139.805,75.306917 122.92404,57.913287 C 122.32116,57.292097 121.70813,56.672937 121.09293,56.062057 z M 200.44493,135.41407 C 198.59931,133.58139 196.7017,131.79955 194.74028,130.07161 C 183.67599,120.04562 171.39481,112.19459 159.27486,107.78623 C 159.36424,108.37002 159.44134,108.95213 159.51632,109.53688 C 160.3184,115.04873 160.37392,120.59678 159.55656,125.91637 C 167.75091,129.5754 176.36859,134.94276 184.10568,141.95379 L 184.15599,141.98398 L 184.19623,142.02422 C 186.46414,144.02217 188.65463,146.14244 190.73596,148.34259 C 205.30528,163.74371 214.98426,183.31271 215.44606,195.93166 L 215.45613,195.98198 L 215.45612,196.04234 C 215.82164,203.16833 213.9131,208.03252 210.91857,211.00323 L 210.83807,211.08371 L 210.75758,211.16421 C 207.80643,214.2629 202.4212,216.13748 194.49882,215.45023 C 186.57644,214.76297 176.66811,211.39556 166.78045,205.25833 L 166.73014,205.22813 L 166.6899,205.20801 C 147.07864,193.39057 128.3733,170.65785 122.5216,152.44754 L 122.49142,152.37711 L 122.47129,152.29661 C 119.37813,143.29503 119.31093,135.64472 121.00237,130.4841 C 122.35673,126.35197 124.45471,123.66405 127.88418,122.01265 C 128.31466,120.11855 128.4819,117.5409 127.98478,114.12474 L 127.95461,113.99394 L 127.94454,113.86315 C 127.64462,111.52435 126.87367,108.79628 125.72103,105.82433 C 115.98664,108.71601 108.91273,116.21133 105.86039,125.52398 C 102.76412,134.97071 103.45273,145.98165 107.39974,157.46804 C 114.94829,180.95884 135.22859,204.85203 158.4599,218.85088 C 170.13026,226.09463 182.00805,230.35263 193.12045,231.31661 C 204.18733,232.27664 214.95615,229.79348 222.21719,222.24149 C 228.99458,215.47009 231.89849,205.67202 231.36275,195.2274 C 230.66067,176.04288 219.15703,154.65895 202.27606,137.26531 C 201.67317,136.6441 201.06014,136.02496 200.44493,135.41407 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         id="path9336" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="tmp"
+     inkscape:label="tmp"
+     style="display:inline" />
+</svg>

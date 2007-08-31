@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/src/blogicons/small"
+   sodipodi:docname="tag.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3948786"
+     inkscape:cx="229.89845"
+     inkscape:cy="112.08546"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="true"
+     inkscape:guide-points="false"
+     width="2979.92px"
+     height="2500px"
+     showgrid="true"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="false" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="linearGradient2173">
+      <stop
+         style="stop-color:#3472ff;stop-opacity:0.46875;"
+         offset="0"
+         id="stop2175" />
+      <stop
+         style="stop-color:#2861c0;stop-opacity:1;"
+         offset="1"
+         id="stop2177" />
+    </linearGradient>
+    <linearGradient
+       id="innerGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="128"
+       x2="128"
+       y1="10"
+       y2="246"
+       gradientTransform="matrix(1.0004065,0,0,1,274.87953,12.508057)">
+      <stop
+         offset="0"
+         id="feedGStart"
+         style="stop-color:#6aa0df;stop-opacity:1;" />
+      <stop
+         offset="1"
+         id="feedGEnd"
+         style="stop-color:#2861c0;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient4121"
+       cx="128"
+       cy="16"
+       r="200"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5701803,0,0,-1.6725166,201.98308,43.760265)"
+       fx="128"
+       fy="16">
+      <stop
+         style="stop-color:#eeeeff;stop-opacity:1;"
+         id="stop4123"
+         offset="0" />
+      <stop
+         style="stop-color:#2861c0;stop-opacity:1;"
+         id="stop4127"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2173"
+       id="linearGradient2179"
+       x1="119.72369"
+       y1="37.342976"
+       x2="119.72369"
+       y2="225.17432"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,3.1320755,15.132075)" />
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons">
+    <rect
+       style="fill:#2861c0;fill-opacity:0.94117647"
+       id="downloadOuter"
+       width="256"
+       rx="55"
+       ry="55"
+       y="0"
+       x="0"
+       height="256" />
+    <rect
+       style="fill:url(#radialGradient4121);fill-opacity:1"
+       id="downloadMid"
+       width="226"
+       rx="45.325199"
+       ry="45.325199"
+       y="15"
+       x="15"
+       height="226" />
+    <rect
+       height="200"
+       x="28"
+       y="28"
+       ry="36.792454"
+       rx="36.792454"
+       width="200"
+       id="rect2171"
+       style="fill:url(#linearGradient2179);fill-opacity:1" />
+    <g
+       id="g4382"
+       transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,81.722175,81.722175)">
+      <g
+         id="g4377">
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:16;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 8.1185059e-16,-49.5 L -49.5,5.1347815e-15 L -49.5,142.20716 L 49.5,142.20716 L 49.5,5.1347815e-15 L 8.1185059e-16,-49.5 z "
+           id="rect2167"
+           sodipodi:nodetypes="cccccc" />
+        <circle
+           id="circle3379"
+           cx="0"
+           cy="10"
+           r="20"
+           sodipodi:cx="0"
+           sodipodi:cy="10"
+           sodipodi:rx="20"
+           sodipodi:ry="20"
+           style="fill:none;stroke:#ffffff;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:8.13994312;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4375"
+           width="47.860058"
+           height="57.315205"
+           x="-23.930029"
+           y="60.290691" />
+      </g>
+    </g>
+  </g>
+</svg>

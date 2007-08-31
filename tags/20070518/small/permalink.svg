@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/aviram/src/blogicons/small"
+   sodipodi:docname="permalink.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="50"
+     guidetolerance="10"
+     objecttolerance="50"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8710938"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="px"
+     inkscape:current-layer="icons"
+     inkscape:window-width="1024"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-bbox="false"
+     inkscape:object-points="false"
+     inkscape:object-nodes="false"
+     inkscape:guide-points="false"
+     width="256px"
+     height="256px"
+     showgrid="false"
+     inkscape:grid-bbox="false"
+     inkscape:object-paths="true" />
+  <defs
+     id="gradients">
+    <linearGradient
+       id="innerGradient"
+       gradientUnits="userSpaceOnUse"
+       x1="128"
+       x2="128"
+       y1="32"
+       y2="224">
+      <stop
+         offset="0"
+         id="feedGStart"
+         style="stop-color:#8bcbe0;stop-opacity:1;" />
+      <stop
+         offset="1"
+         id="feedGEnd"
+         style="stop-color:#3091b1;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       id="midGradient"
+       cx="128"
+       cy="50"
+       r="128"
+       gradientUnits="userSpaceOnUse"
+       fx="128"
+       fy="128">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3194" />
+      <stop
+         style="stop-color:#64bfdd;stop-opacity:1;"
+         offset="1"
+         id="stop3196" />
+    </radialGradient>
+    <ellipse
+       clip-path="url(#chainShadow)"
+       style="fill:none;stroke:#ffffff;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:ry="37.5"
+       sodipodi:rx="75"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       ry="37.5"
+       rx="75"
+       cy="0"
+       cx="0"
+       id="chain" />
+    <clipPath
+       id="chainShadow"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path6118"
+         d="M -87.5,-50 L -87.5,50 L 67.4375,50 C 62.741907,48.388694 58.258392,46.519821 54.03125,44.40625 C 36.819242,35.800246 21,21.171256 21,0 L 61,0 C 61.184492,0.20680654 62.744664,4.0442067 71.90625,8.625 C 76.103097,10.723423 81.414091,12.651092 87.5,14.15625 L 87.5,-50 L -87.5,-50 z " />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+        <dc:title>Blog Icons</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Avi Alkalay</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>These are the Blog Icons, initially based on the FeedIcons.com, but simplified (on XML level) and new icons created.</dc:description>
+        <dc:source>http://avi.alkalay.net</dc:source>
+        <dc:relation />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="icons"
+     inkscape:label="icons"
+     style="display:inline">
+    <g
+       id="permalink">
+      <rect
+         style="fill:#047aa3;fill-opacity:1"
+         id="outer"
+         width="256"
+         rx="42"
+         ry="42"
+         y="0"
+         x="0"
+         height="256" />
+      <rect
+         style="fill:url(#midGradient)"
+         id="mid"
+         width="224"
+         rx="36.75"
+         ry="36.75"
+         y="16"
+         x="16"
+         height="224" />
+      <rect
+         style="fill:url(#innerGradient);fill-opacity:1"
+         id="inner"
+         width="192"
+         rx="31.5"
+         ry="31.5"
+         y="32"
+         x="32"
+         height="192" />
+      <g
+         transform="translate(95.190244,95.190244)"
+         id="linkTranslateWraper">
+        <g
+           transform="scale(0.8,0.8)"
+           id="linkScaleWraper">
+          <g
+             transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)"
+             id="link">
+            <use
+               id="chain1"
+               xlink:href="#chain"
+               x="0"
+               y="0"
+               width="256"
+               height="256" />
+            <use
+               height="256"
+               width="256"
+               y="0"
+               x="0"
+               xlink:href="#chain"
+               id="chain2"
+               transform="matrix(-1,0,0,-1,116,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
