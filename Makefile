@@ -4,7 +4,7 @@ PROFILES=default small
 
 FORMATS=png jpg gif
 
-ICONS=feed.svg permalink.svg trackback.svg comment.svg share.svg edit.svg permalink2.svg permalink3.svg permalink4.svg clock.svg clock2.svg cancel.svg opml.svg download.svg upload.svg tag.svg
+ICONS=feed.svg permalink.svg trackback.svg comment.svg share.svg edit.svg permalink2.svg permalink3.svg permalink4.svg permalink5.svg clock.svg clock2.svg cancel.svg opml.svg download.svg upload.svg tag.svg
 
 # Directory where to export images. Must end with a '/'.
 EXPORT="export/"
