@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,7 +13,7 @@
    height="256"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.45.1"
+   inkscape:version="0.46"
    sodipodi:docbase="/home/aviram/My Documents/BlogSphere/blogicons"
    sodipodi:docname="share.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -28,15 +28,15 @@
      objecttolerance="50"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9414062"
+     inkscape:zoom="2.3789062"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="icons"
-     inkscape:window-width="1024"
-     inkscape:window-height="696"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="814"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:object-bbox="false"
@@ -47,9 +47,17 @@
      height="2500px"
      showgrid="false"
      inkscape:grid-bbox="false"
-     inkscape:object-paths="true" />
+     inkscape:object-paths="true"
+     showborder="false" />
   <defs
      id="gradients">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 128 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="256 : 128 : 1"
+       inkscape:persp3d-origin="128 : 85.333333 : 1"
+       id="perspective2520" />
     <linearGradient
        id="shareGradient"
        gradientUnits="userSpaceOnUse"
@@ -58,15 +66,15 @@
        y1="25"
        y2="230">
       <stop
-         style="stop-color:#1cd300;stop-opacity:1;"
+         style="stop-color:#185d2c;stop-opacity:1;"
          offset="0"
          id="shareGStart" />
       <stop
-         style="stop-color:#86f041;stop-opacity:1;"
+         style="stop-color:#319f2f;stop-opacity:1;"
          offset="0.5"
          id="shareGMid" />
       <stop
-         style="stop-color:#1cd300;stop-opacity:1;"
+         style="stop-color:#185d2c;stop-opacity:1;"
          offset="1"
          id="shareGEnd" />
     </linearGradient>
@@ -131,9 +139,9 @@
        y="0"
        x="0"
        height="256"
-       style="fill:#1cd300;fill-opacity:1" />
+       style="fill:#185d2c" />
     <rect
-       style="fill:#86f041;fill-opacity:1"
+       style="fill:#319f2f;fill-opacity:1"
        id="shareMid"
        width="246"
        rx="50"
@@ -154,29 +162,29 @@
        id="circle2175"
        cx="182"
        cy="48"
-       r="32"
+       r="30"
        sodipodi:cx="182"
        sodipodi:cy="48"
-       sodipodi:rx="32"
-       sodipodi:ry="32"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       sodipodi:ry="32"
-       sodipodi:rx="32"
+       sodipodi:ry="30.9"
+       sodipodi:rx="30.9"
        sodipodi:cy="128"
-       sodipodi:cx="58"
-       r="32"
+       sodipodi:cx="72.832001"
+       r="30.9"
        cy="128"
-       cx="58"
+       cx="72.832001"
        id="circle3149" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       sodipodi:ry="32"
-       sodipodi:rx="32"
+       sodipodi:ry="30"
+       sodipodi:rx="30"
        sodipodi:cy="208"
        sodipodi:cx="182"
-       r="32"
+       r="30"
        cy="208"
        cx="182"
        id="circle3151" />
